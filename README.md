@@ -22,6 +22,8 @@ So "ab*cd" yields "ad" and "ab**cd" also yields "ad".
   
 	xyBalance("aaxbb") - false
 	
-  xyBalance("yaaxbb") - false
+  	xyBalance("yaaxbb") - false
+	
+	
   
   
